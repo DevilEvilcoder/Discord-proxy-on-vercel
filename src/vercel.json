@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://openai.com" },
+        { "source": "/", "destination": "https://discord.com" },
         {
             "source": "/:match*",
-            "destination": "https://openai.com/:match*"
+            "destination": "https://discord.com/:match*"
         }
     ],
     "github": {
